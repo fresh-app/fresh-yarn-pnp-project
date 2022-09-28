@@ -35,7 +35,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["eslint", "npm:8.24.0"],\
             ["prettier", "npm:2.7.1"],\
-            ["typescript", "patch:typescript@npm%3A4.8.3#~builtin<compat/typescript>::version=4.8.3&hash=a1c5e5"]\
+            ["typescript", "patch:typescript@npm%3A4.8.4#~builtin<compat/typescript>::version=4.8.4&hash=a1c5e5"]\
           ],\
           "linkType": "SOFT"\
         }]\
@@ -617,7 +617,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["fresh-app", "workspace:."],\
             ["eslint", "npm:8.24.0"],\
             ["prettier", "npm:2.7.1"],\
-            ["typescript", "patch:typescript@npm%3A4.8.3#~builtin<compat/typescript>::version=4.8.3&hash=a1c5e5"]\
+            ["typescript", "patch:typescript@npm%3A4.8.4#~builtin<compat/typescript>::version=4.8.4&hash=a1c5e5"]\
           ],\
           "linkType": "SOFT"\
         }]\
@@ -1187,10 +1187,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["typescript", [\
-        ["patch:typescript@npm%3A4.8.3#~builtin<compat/typescript>::version=4.8.3&hash=a1c5e5", {\
-          "packageLocation": "./.yarn/cache/typescript-patch-4d824bf818-2222d2382f.zip/node_modules/typescript/",\
+        ["patch:typescript@npm%3A4.8.4#~builtin<compat/typescript>::version=4.8.4&hash=a1c5e5", {\
+          "packageLocation": "./.yarn/cache/typescript-patch-5b3c915f01-563a0ef47a.zip/node_modules/typescript/",\
           "packageDependencies": [\
-            ["typescript", "patch:typescript@npm%3A4.8.3#~builtin<compat/typescript>::version=4.8.3&hash=a1c5e5"]\
+            ["typescript", "patch:typescript@npm%3A4.8.4#~builtin<compat/typescript>::version=4.8.4&hash=a1c5e5"]\
           ],\
           "linkType": "HARD"\
         }]\
