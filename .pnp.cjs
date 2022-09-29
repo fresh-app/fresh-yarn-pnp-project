@@ -59,10 +59,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@humanwhocodes/config-array", [\
-        ["npm:0.10.5", {\
-          "packageLocation": "./.yarn/cache/@humanwhocodes-config-array-npm-0.10.5-062eb607ed-af4fa2633c.zip/node_modules/@humanwhocodes/config-array/",\
+        ["npm:0.10.6", {\
+          "packageLocation": "./.yarn/cache/@humanwhocodes-config-array-npm-0.10.6-824b9c385a-0dd7396fda.zip/node_modules/@humanwhocodes/config-array/",\
           "packageDependencies": [\
-            ["@humanwhocodes/config-array", "npm:0.10.5"],\
+            ["@humanwhocodes/config-array", "npm:0.10.6"],\
             ["@humanwhocodes/object-schema", "npm:1.2.1"],\
             ["debug", "virtual:fd8de37609258cc0a542fd94a84d3a92a7a50fe97add0d0ad2eb2de7df7a01a41d03004536a361279c31772f9825e9f1c1db0cf143d0ea8269bb824c9db84c63#npm:4.3.4"],\
             ["minimatch", "npm:3.1.2"]\
@@ -366,7 +366,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["eslint", "npm:8.24.0"],\
             ["@eslint/eslintrc", "npm:1.3.2"],\
-            ["@humanwhocodes/config-array", "npm:0.10.5"],\
+            ["@humanwhocodes/config-array", "npm:0.10.6"],\
             ["@humanwhocodes/gitignore-to-minimatch", "npm:1.0.2"],\
             ["@humanwhocodes/module-importer", "npm:1.0.1"],\
             ["ajv", "npm:6.12.6"],\
