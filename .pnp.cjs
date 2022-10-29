@@ -54,10 +54,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@humanwhocodes/config-array", [\
-        ["npm:0.11.6", {\
-          "packageLocation": "./.yarn/cache/@humanwhocodes-config-array-npm-0.11.6-02675b40c5-2fb7288638.zip/node_modules/@humanwhocodes/config-array/",\
+        ["npm:0.11.7", {\
+          "packageLocation": "./.yarn/cache/@humanwhocodes-config-array-npm-0.11.7-fa83ecd27f-cf506dc45d.zip/node_modules/@humanwhocodes/config-array/",\
           "packageDependencies": [\
-            ["@humanwhocodes/config-array", "npm:0.11.6"],\
+            ["@humanwhocodes/config-array", "npm:0.11.7"],\
             ["@humanwhocodes/object-schema", "npm:1.2.1"],\
             ["debug", "virtual:9e3a462140b35a19ddb3d48ebde58d66740d97f4c0386bc195c327fc2c44fa59f43cbcb382dd9f194b16d0dd6c0a138aadd4a9de84088f88e25946598f97cb88#npm:4.3.4"],\
             ["minimatch", "npm:3.1.2"]\
@@ -323,7 +323,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["eslint", "npm:8.26.0"],\
             ["@eslint/eslintrc", "npm:1.3.3"],\
-            ["@humanwhocodes/config-array", "npm:0.11.6"],\
+            ["@humanwhocodes/config-array", "npm:0.11.7"],\
             ["@humanwhocodes/module-importer", "npm:1.0.1"],\
             ["@nodelib/fs.walk", "npm:1.2.8"],\
             ["ajv", "npm:6.12.6"],\
