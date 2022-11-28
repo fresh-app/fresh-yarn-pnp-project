@@ -44,7 +44,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["debug", "virtual:9e3a462140b35a19ddb3d48ebde58d66740d97f4c0386bc195c327fc2c44fa59f43cbcb382dd9f194b16d0dd6c0a138aadd4a9de84088f88e25946598f97cb88#npm:4.3.4"],\
             ["espree", "npm:9.4.1"],\
             ["globals", "npm:13.18.0"],\
-            ["ignore", "npm:5.2.0"],\
+            ["ignore", "npm:5.2.1"],\
             ["import-fresh", "npm:3.3.0"],\
             ["js-yaml", "npm:4.1.0"],\
             ["minimatch", "npm:3.1.2"],\
@@ -344,7 +344,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["glob-parent", "npm:6.0.2"],\
             ["globals", "npm:13.18.0"],\
             ["grapheme-splitter", "npm:1.0.4"],\
-            ["ignore", "npm:5.2.0"],\
+            ["ignore", "npm:5.2.1"],\
             ["import-fresh", "npm:3.3.0"],\
             ["imurmurhash", "npm:0.1.4"],\
             ["is-glob", "npm:4.0.3"],\
@@ -618,10 +618,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["ignore", [\
-        ["npm:5.2.0", {\
-          "packageLocation": "./.yarn/cache/ignore-npm-5.2.0-fc4b58a4f3-6b1f926792.zip/node_modules/ignore/",\
+        ["npm:5.2.1", {\
+          "packageLocation": "./.yarn/cache/ignore-npm-5.2.1-208dc99ae8-7251d00cba.zip/node_modules/ignore/",\
           "packageDependencies": [\
-            ["ignore", "npm:5.2.0"]\
+            ["ignore", "npm:5.2.1"]\
           ],\
           "linkType": "HARD"\
         }]\
