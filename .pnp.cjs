@@ -43,7 +43,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["ajv", "npm:6.12.6"],\
             ["debug", "virtual:9e3a462140b35a19ddb3d48ebde58d66740d97f4c0386bc195c327fc2c44fa59f43cbcb382dd9f194b16d0dd6c0a138aadd4a9de84088f88e25946598f97cb88#npm:4.3.4"],\
             ["espree", "npm:9.4.1"],\
-            ["globals", "npm:13.18.0"],\
+            ["globals", "npm:13.19.0"],\
             ["ignore", "npm:5.2.1"],\
             ["import-fresh", "npm:3.3.0"],\
             ["js-yaml", "npm:4.1.0"],\
@@ -342,7 +342,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["file-entry-cache", "npm:6.0.1"],\
             ["find-up", "npm:5.0.0"],\
             ["glob-parent", "npm:6.0.2"],\
-            ["globals", "npm:13.18.0"],\
+            ["globals", "npm:13.19.0"],\
             ["grapheme-splitter", "npm:1.0.4"],\
             ["ignore", "npm:5.2.1"],\
             ["import-fresh", "npm:3.3.0"],\
@@ -590,10 +590,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["globals", [\
-        ["npm:13.18.0", {\
-          "packageLocation": "./.yarn/cache/globals-npm-13.18.0-0272e9ed61-9fdaa74cfd.zip/node_modules/globals/",\
+        ["npm:13.19.0", {\
+          "packageLocation": "./.yarn/cache/globals-npm-13.19.0-a63c75a2dd-a000dbd00b.zip/node_modules/globals/",\
           "packageDependencies": [\
-            ["globals", "npm:13.18.0"],\
+            ["globals", "npm:13.19.0"],\
             ["type-fest", "npm:0.20.2"]\
           ],\
           "linkType": "HARD"\
