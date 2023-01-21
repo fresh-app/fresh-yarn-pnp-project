@@ -349,7 +349,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["imurmurhash", "npm:0.1.4"],\
             ["is-glob", "npm:4.0.3"],\
             ["is-path-inside", "npm:3.0.3"],\
-            ["js-sdsl", "npm:4.2.0"],\
+            ["js-sdsl", "npm:4.3.0"],\
             ["js-yaml", "npm:4.1.0"],\
             ["json-stable-stringify-without-jsonify", "npm:1.0.1"],\
             ["levn", "npm:0.4.1"],\
@@ -704,10 +704,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["js-sdsl", [\
-        ["npm:4.2.0", {\
-          "packageLocation": "./.yarn/cache/js-sdsl-npm-4.2.0-f34411d30f-2cd0885f72.zip/node_modules/js-sdsl/",\
+        ["npm:4.3.0", {\
+          "packageLocation": "./.yarn/cache/js-sdsl-npm-4.3.0-4f51b3ddb2-ce908257cf.zip/node_modules/js-sdsl/",\
           "packageDependencies": [\
-            ["js-sdsl", "npm:4.2.0"]\
+            ["js-sdsl", "npm:4.3.0"]\
           ],\
           "linkType": "HARD"\
         }]\
