@@ -346,7 +346,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-utils", "virtual:23207d2624cff179036955421f217d9b642767180ad318c56c9a42241d1f73297bd7d818c1d044fee5132b3f5ca0006e70621c180081f2f18292dd296bf87024#npm:3.0.0"],\
             ["eslint-visitor-keys", "npm:3.3.0"],\
             ["espree", "npm:9.4.1"],\
-            ["esquery", "npm:1.4.2"],\
+            ["esquery", "npm:1.5.0"],\
             ["esutils", "npm:2.0.3"],\
             ["fast-deep-equal", "npm:3.1.3"],\
             ["file-entry-cache", "npm:6.0.1"],\
@@ -438,10 +438,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["esquery", [\
-        ["npm:1.4.2", {\
-          "packageLocation": "./.yarn/cache/esquery-npm-1.4.2-7f7c29c5bf-2f4ad89c5a.zip/node_modules/esquery/",\
+        ["npm:1.5.0", {\
+          "packageLocation": "./.yarn/cache/esquery-npm-1.5.0-d8f8a06879-aefb0d2596.zip/node_modules/esquery/",\
           "packageDependencies": [\
-            ["esquery", "npm:1.4.2"],\
+            ["esquery", "npm:1.5.0"],\
             ["estraverse", "npm:5.3.0"]\
           ],\
           "linkType": "HARD"\
