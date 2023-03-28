@@ -49,7 +49,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@eslint-community/eslint-utils", "virtual:f8482bce951a32bbadcbad709f15702baa8834670d63227c3d586dc610bc11bf9cb46402b816f8eb4a690aed117e72940cd0aaaea824bd7d2ca2225be3fc476d#npm:4.4.0"],\
             ["@types/eslint", null],\
             ["eslint", "npm:8.36.0"],\
-            ["eslint-visitor-keys", "npm:3.3.0"]\
+            ["eslint-visitor-keys", "npm:3.4.0"]\
           ],\
           "packagePeers": [\
             "@types/eslint",\
@@ -377,7 +377,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["doctrine", "npm:3.0.0"],\
             ["escape-string-regexp", "npm:4.0.0"],\
             ["eslint-scope", "npm:7.1.1"],\
-            ["eslint-visitor-keys", "npm:3.3.0"],\
+            ["eslint-visitor-keys", "npm:3.4.0"],\
             ["espree", "npm:9.5.0"],\
             ["esquery", "npm:1.5.0"],\
             ["esutils", "npm:2.0.3"],\
@@ -419,10 +419,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["eslint-visitor-keys", [\
-        ["npm:3.3.0", {\
-          "packageLocation": "./.yarn/cache/eslint-visitor-keys-npm-3.3.0-d329af7c8c-d59e68a7c5.zip/node_modules/eslint-visitor-keys/",\
+        ["npm:3.4.0", {\
+          "packageLocation": "./.yarn/cache/eslint-visitor-keys-npm-3.4.0-dc8683d774-3315916946.zip/node_modules/eslint-visitor-keys/",\
           "packageDependencies": [\
-            ["eslint-visitor-keys", "npm:3.3.0"]\
+            ["eslint-visitor-keys", "npm:3.4.0"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -434,7 +434,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["espree", "npm:9.5.0"],\
             ["acorn", "npm:8.8.2"],\
             ["acorn-jsx", "virtual:ec4786604f9531d30308646285cc328c2466129d2dcced32ad8d48d504280adbe7e741f4ceefcf86ff63f7faa9b69d0790fc355bac627a6fa40ed797dcfc8476#npm:5.3.2"],\
-            ["eslint-visitor-keys", "npm:3.3.0"]\
+            ["eslint-visitor-keys", "npm:3.4.0"]\
           ],\
           "linkType": "HARD"\
         }]\
