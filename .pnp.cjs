@@ -376,7 +376,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["debug", "virtual:d308674d86394045a3178d86fc0909ad49c0ac9801ba12776e517bdaf3dfe3537e24a9c79fd8f2bd15e4a7d8be7fae6252874fd98e2dbd2728333f46ec685014#npm:4.3.4"],\
             ["doctrine", "npm:3.0.0"],\
             ["escape-string-regexp", "npm:4.0.0"],\
-            ["eslint-scope", "npm:7.1.1"],\
+            ["eslint-scope", "npm:7.2.0"],\
             ["eslint-visitor-keys", "npm:3.4.0"],\
             ["espree", "npm:9.5.1"],\
             ["esquery", "npm:1.5.0"],\
@@ -408,10 +408,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["eslint-scope", [\
-        ["npm:7.1.1", {\
-          "packageLocation": "./.yarn/cache/eslint-scope-npm-7.1.1-23935eb377-9f6e974ab2.zip/node_modules/eslint-scope/",\
+        ["npm:7.2.0", {\
+          "packageLocation": "./.yarn/cache/eslint-scope-npm-7.2.0-88784f5a38-64591a2d8b.zip/node_modules/eslint-scope/",\
           "packageDependencies": [\
-            ["eslint-scope", "npm:7.1.1"],\
+            ["eslint-scope", "npm:7.2.0"],\
             ["esrecurse", "npm:4.3.0"],\
             ["estraverse", "npm:5.3.0"]\
           ],\
