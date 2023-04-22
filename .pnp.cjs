@@ -28,7 +28,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {\
           "packageLocation": "./",\
           "packageDependencies": [\
-            ["eslint", "npm:8.38.0"],\
+            ["eslint", "npm:8.39.0"],\
             ["prettier", "npm:2.8.7"],\
             ["typescript", "patch:typescript@npm%3A5.0.4#~builtin<compat/typescript>::version=5.0.4&hash=85af82"]\
           ],\
@@ -43,12 +43,12 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:552d805c27b911879922fd6c8c62e8f7010a3e090fad5de06affada0215e4ae9d87b903dce7c72619378bf8ec151c34a4cdebd9f2c85e5867b8ae93c0c5e75be#npm:4.4.0", {\
-          "packageLocation": "./.yarn/__virtual__/@eslint-community-eslint-utils-virtual-068a36da9f/0/cache/@eslint-community-eslint-utils-npm-4.4.0-d1791bd5a3-cdfe3ae42b.zip/node_modules/@eslint-community/eslint-utils/",\
+        ["virtual:d92bace04d6d26247b24721a8766993aa3a98c631265bb389d6aa7c17b2a0708ccc877f009bd6a9cb50b8597fbe776c68dae7621d198ff292ee4bc23bd4b012f#npm:4.4.0", {\
+          "packageLocation": "./.yarn/__virtual__/@eslint-community-eslint-utils-virtual-75945d7e20/0/cache/@eslint-community-eslint-utils-npm-4.4.0-d1791bd5a3-cdfe3ae42b.zip/node_modules/@eslint-community/eslint-utils/",\
           "packageDependencies": [\
-            ["@eslint-community/eslint-utils", "virtual:552d805c27b911879922fd6c8c62e8f7010a3e090fad5de06affada0215e4ae9d87b903dce7c72619378bf8ec151c34a4cdebd9f2c85e5867b8ae93c0c5e75be#npm:4.4.0"],\
+            ["@eslint-community/eslint-utils", "virtual:d92bace04d6d26247b24721a8766993aa3a98c631265bb389d6aa7c17b2a0708ccc877f009bd6a9cb50b8597fbe776c68dae7621d198ff292ee4bc23bd4b012f#npm:4.4.0"],\
             ["@types/eslint", null],\
-            ["eslint", "npm:8.38.0"],\
+            ["eslint", "npm:8.39.0"],\
             ["eslint-visitor-keys", "npm:3.4.0"]\
           ],\
           "packagePeers": [\
@@ -86,10 +86,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@eslint/js", [\
-        ["npm:8.38.0", {\
-          "packageLocation": "./.yarn/cache/@eslint-js-npm-8.38.0-886fbc629f-1f28987aa8.zip/node_modules/@eslint/js/",\
+        ["npm:8.39.0", {\
+          "packageLocation": "./.yarn/cache/@eslint-js-npm-8.39.0-558d35aa2d-63fe36e2bf.zip/node_modules/@eslint/js/",\
           "packageDependencies": [\
-            ["@eslint/js", "npm:8.38.0"]\
+            ["@eslint/js", "npm:8.39.0"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -359,14 +359,14 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["eslint", [\
-        ["npm:8.38.0", {\
-          "packageLocation": "./.yarn/cache/eslint-npm-8.38.0-552d805c27-73b6d9b650.zip/node_modules/eslint/",\
+        ["npm:8.39.0", {\
+          "packageLocation": "./.yarn/cache/eslint-npm-8.39.0-d92bace04d-d7a074ff32.zip/node_modules/eslint/",\
           "packageDependencies": [\
-            ["eslint", "npm:8.38.0"],\
-            ["@eslint-community/eslint-utils", "virtual:552d805c27b911879922fd6c8c62e8f7010a3e090fad5de06affada0215e4ae9d87b903dce7c72619378bf8ec151c34a4cdebd9f2c85e5867b8ae93c0c5e75be#npm:4.4.0"],\
+            ["eslint", "npm:8.39.0"],\
+            ["@eslint-community/eslint-utils", "virtual:d92bace04d6d26247b24721a8766993aa3a98c631265bb389d6aa7c17b2a0708ccc877f009bd6a9cb50b8597fbe776c68dae7621d198ff292ee4bc23bd4b012f#npm:4.4.0"],\
             ["@eslint-community/regexpp", "npm:4.5.0"],\
             ["@eslint/eslintrc", "npm:2.0.2"],\
-            ["@eslint/js", "npm:8.38.0"],\
+            ["@eslint/js", "npm:8.39.0"],\
             ["@humanwhocodes/config-array", "npm:0.11.8"],\
             ["@humanwhocodes/module-importer", "npm:1.0.1"],\
             ["@nodelib/fs.walk", "npm:1.2.8"],\
@@ -560,7 +560,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["fresh-app", "workspace:."],\
-            ["eslint", "npm:8.38.0"],\
+            ["eslint", "npm:8.39.0"],\
             ["prettier", "npm:2.8.7"],\
             ["typescript", "patch:typescript@npm%3A5.0.4#~builtin<compat/typescript>::version=5.0.4&hash=85af82"]\
           ],\
