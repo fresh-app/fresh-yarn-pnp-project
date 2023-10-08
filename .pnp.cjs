@@ -547,7 +547,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["flat-cache", "npm:3.1.1"],\
             ["flatted", "npm:3.2.9"],\
-            ["keyv", "npm:4.5.3"],\
+            ["keyv", "npm:4.5.4"],\
             ["rimraf", "npm:3.0.2"]\
           ],\
           "linkType": "HARD"\
@@ -760,10 +760,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["keyv", [\
-        ["npm:4.5.3", {\
-          "packageLocation": "./.yarn/cache/keyv-npm-4.5.3-d2382300dd-3ffb4d5b72.zip/node_modules/keyv/",\
+        ["npm:4.5.4", {\
+          "packageLocation": "./.yarn/cache/keyv-npm-4.5.4-4c8e2cf7f7-74a24395b1.zip/node_modules/keyv/",\
           "packageDependencies": [\
-            ["keyv", "npm:4.5.3"],\
+            ["keyv", "npm:4.5.4"],\
             ["json-buffer", "npm:3.0.1"]\
           ],\
           "linkType": "HARD"\
